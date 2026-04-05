@@ -1,0 +1,157 @@
+
+                Hello there, I’m an undergraduate student in the Energy Science
+                and Engineering Department - yes, a DD student writing about his
+                intern, so you have an idea of what to expect. By the time you
+                read this, I should have been accepted for an IDDDP in CMInDS
+                with an MTech in AI & Data Science, with these two being what my
+                professional interests have converged on. I am currently
+                interning as a Student Research Assistant under Prof. Nils
+                Kriege at Universität Wien in Vienna, Austria, and writing this
+                on the 81st day of my 89-day Europe trip work-visa permitted
+                stay in the Schengen region.
+              
+
+                I did not start the internship season wanting to do research. I
+                was fresh out of a very eye-opening internship with an Indian
+                think-tank; it had made me realise that I did not want to work
+                in my department’s non-core area (the profile was
+                energy-consulting but in a less consult environment, iykwim). I
+                had been dabbling in Machine Learning through my CS minor and
+                found it *chef's kiss*; I was pursuing a project in the
+                time-series domain with a professor in collaboration with a
+                Germany-based start-up in the summer (this eventually collapsed
+                in a marvellous fashion, so not as impressive as it sounds).
+              
+
+                Still, I thought it would be hard for me to level with my peers
+                who had been familiar with ML since their first year. I knew no
+                seniors interested in core ML and had no interest in
+                diversifying into Computer Vision yet (if you have even heard
+                about ML, you know how popular CV is). Come July, I was left
+                with practising a lot of DSA, revising a ton of ML concepts and
+                the only thing I had finished on time was my resume, which was
+                lacklustre by the standards of a good tech resume.
+              
+
+                And yes, I panicked a little. But this is where my DD status
+                came in; the thought that almost no company would open for me
+                calmed me down - you can’t fail at an opportunity you never got
+                *finger guns*. I was mainly looking for well-paid ML RnD roles
+                (I was more of a sellout back then), and through days of looking
+                at companies, I realised that only 3-4 such positions would be
+                opening up for me in the first two months, and they would have
+                sky-high levels of competition (damn you, EE department kids).
+                Still, I diverted my focus on practising whatever coding I could
+                (all hail Hackerrank) and sat through hours of
+                
+                  Kylian Weinberger's golden lecture offerings
+                at Cornell, which I did not end up finishing, but the effort
+                counts.
+              
+
+                For the underprepared (most of us, really), the entire intern
+                season is like going to the gym for the first time. You’re
+                extremely nervous and afraid of being the only inexperienced one
+                there, and it doesn’t help that the guys around you look like
+                beefcakes benching 220 pounds casually. I was giving tests for
+                whatever software company opened up with even a remote mention
+                of ML, and any parallel aspirations I had of getting into
+                non-core companies went down the drain with their pre-final year
+                restrictions. Getting through core software tests was tough
+                enough as it is with my make-shift DSA skills, and when the ML
+                RnD companies started shortlisting me for interviews, they were
+                all looking for people with CV in their basket.
+              
+
+                By the end of September, I had given seven interviews and been
+                rejected in all of them. IAFs opening for profiles I wanted
+                became scant, and almost all of my friends had internships by
+                then. I realised the anxiety accompanying intern season was
+                taking a toll on me. I had a 53-credit semester going on and
+                desperately needed a break - I completely pulled out from the
+                process. I had picked up an RnD with the same professor from my
+                previous project, on Graph Machine Learning, and diverted my
+                focus to my academics so that I would have some semblance of
+                progress in ML.
+              
+
+                At this time, the senior I was working with on my RnD asked
+                about my intern season, and that one half-hour talk did wonders.
+                She encouraged me to apply to professors internationally,
+                introduced me to DAAD (Graph ML is big daddy in German
+                Universities) and assuaged my insecurities about my branch
+                negatively affecting my chances - professors really don’t care
+                about branches if they think you’re good enough at what you do.
+                My DD branch provided the flexibility to work in a 4th-year
+                internship if I wanted to, so a 3rd-year research intern sounded
+                like a good idea. I was getting more and more habituated to
+                reading literature in ML through the RnD, and eventually decided
+                to start applying to European and American professors because I
+                now had a somewhat educated idea about their work. I created
+                professor databases, started monitoring whether they were
+                looking to accept students and getting up at odd times to mail
+                them - LDAP mail scheduling is not a thing.
+              
+
+                Come November, and I had ZERO replies on the day of the DAAD
+                deadline. Still, I shrugged it off and diversified to regular
+                apping to non-German professors, even putting a Day 1 intern
+                friend to unpaid work on my database. Eventually, he found Prof.
+                Kriege, and I got called for an interview. He had a smaller team
+                and was actively looking for students to work under him, and I
+                got the sense that I would be held to higher expectations. And
+                surely enough, he made me write an entire research proposal in
+                the months of February and March as opposed to just an SoP to
+                secure funding under his program.
+              
+Austria, but with a picture of a rainy Budapest, Hungary
+
+                I’m here for the maximum time my temporary work visa would allow
+                me to be, and I will say I have enjoyed my intern. I meet my
+                professor weekly to discuss problems and results; the ideation
+                was more or less finished by my first three weeks as I had
+                already worked on the proposal. Talking about my research, I’m
+                basically trying to figure out if two nodes in a graph are
+                similar using their neighbourhoods. Once that was implemented, I
+                extended the (secret) idea to different types of graphs and
+                continuous node feature embeddings extracted using neural
+                methods. The method is simple enough, and I had to implement the
+                entire codebase from scratch while also verifying the
+                effectiveness on datasets that were either available or I
+                created. Very often, mental breakthroughs came from staring at
+                drawings like the one below. Pretty much standard research :D
+              
+
+                I had never travelled internationally, let alone doing so alone.
+                Living in Vienna for the last three months has been a very
+                unusual yet warming experience; I’ve learnt how to cook
+                (barely), take care of household chores, develop my own
+                work-life balance and become comfortable with living
+                independently. Hopefully, if you plan to do an intern in Europe
+                too, you’ll have a ton of friends with the same idea - if not,
+                then you’ll probably make friends with the IITB people there
+                anyway.
+              
+
+                I have been convinced, well enough, that I want to pursue a
+                career in Machine Learning, and I’m actively leveraging the
+                confidence and experience this intern has given me to apply to
+                other projects and eventually corporate RnD internships. This
+                was not what I planned to do when I was in your place (if you’re
+                a third-year student at IITB), but it all worked out in the end.
+                And trust me, so will it with you. Intern season can be a
+                behemoth to tackle, and I think my unique take on it is that
+                it’s okay to take a break from the race once in a while, if that
+                means you’ll be returning with a stronger resolve. And if you
+                want to ditch the race altogether, there are countless
+                opportunities out there to apply to, with the only condition
+                that you look for them. All the best, and feel free to look for
+                me if you have any questions or even just want to talk! :)
+              
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

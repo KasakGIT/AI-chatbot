@@ -1,0 +1,59 @@
+
+                I’m Tejas Bhalla, a to-be-fourthie in the Electrical Engineering Department, and I interned at Optiver in the quantitative trading profile. 
+              
+
+                Trading was something I didn’t have much idea of before I started my sophomore year in college. My first introduction was a photo of Jane Street’s IAF showing a stipend which I figured had to be an error, as I couldn’t believe anyone would value an intern so much that they would pay 12 lakhs to them. On finding out what the company did, I was convinced that they do value the people that highly. Further from the info available on their website, I realised that they focused on quick arithmetic, probability and puzzles, which fit pretty well into the limited skill set I had. On doing some more research about trading firms, I found out about Optiver and got more information from seniors who had just been placed there. I decided then to keep an eye out for any information available about these companies. Come March, an email came about applications for a Jane Street Quantitative Trading camp. I immediately applied and a few days later found out I had been selected for the next round which involved explaining my strategy to attempt a riddle which didn’t have an ideal solution. I spent a week on my strategy and after being fairly satisfied with my final strategy I submitted it. A week later I found out I had been selected and was extremely excited to see what the experience would be like and what I could learn. The camp was an amazing experience and it confirmed my interest in the trading field. 
+                This meant I entered the intern season with a very clear idea that I wanted to do a trading intern and I was resolute in my choice of not applying to software companies despite being a part of the software subdivision of AUV.
+              
+
+                Coming to my prep for the internship, I focused on 3 things, improving my speed and accuracy at basic arithmetic, puzzles and probability. 
+                Basic Arithmetic - I was already fairly comfortable doing quick arithmetic but needed to improve my accuracy and speed. My seniors told me about zetamac, an amazing website for improving your skills. On the default settings I was told that a score of above 70 would be amazing. Over time, with consistent practice I was able to consistently cross this threshold easily. 
+                Rankyourbrain.com is also a great site for improving your skills as it involves fractions as well.
+              
+
+                Puzzles - The treasure trove of TedEd riddles on youtube was my first stop for puzzles. These riddles are so diverse, it’s a good idea to have a look at them regardless of your field as they can probably help. Having seen most of these videos beforehand meant it was just a refresher for me. I then decided to look for puzzles more specific towards trading interviews and saw that most of the puzzles were probability based. That brings me to the third and final field.
+              
+
+                Probability - This was probably the most important and toughest part of my prep. I was lucky enough to find an amazing resource fairly quickly, ‘A practical guide to quantitative finance interviews’ by Xinfeng Zhou. I highly recommend this book to anyone looking to get into trading fields. After spending 2 weeks going through the relevant sections of the book, I felt I was ready to get into the intern season. 
+              
+
+                Right at the onset, Jane Street and Optiver came with their PPTs, and their IAFs opened shortly after. A few other trading firms also came, such as Quadeye and Morgan Stanley. After attending all the PPTs, I was more inclined to secure an internship in the companies with international opportunities, namely Jane Street and Optiver. 
+              
+
+                First, Optiver conducted it’s preliminary set of tests (there was no resume shortlisting, everyone who applied could give the tests) consisting of basic maths and games. These 2 tests were incredibly fun and the games test was a completely new experience, which was probably the most fun test I had given in the last 5 years (JEE included :P). 300/500 people cleared this set of tests and post this the second round of tests was basic Mental Ability, very similar to the MAT portion of NTSE or any MAT test honestly. These tests finished before Day 1 (Tech), and no more information came until after Day 1 (Tech).
+              
+
+                Meanwhile, Jane Street had a resume shortlist followed by a preliminary interview, post which a final shortlist was released for the interviews which were scheduled on Day 1(Tech). The resume shortlist mainly consisted of students in CS with some of the Department Rankers from Elec. I somehow managed to get shortlisted, possibly because I had attended the JS camp beforehand as I was nowhere close to having a DR. All interviews in JS were technical interviews with no HR round being conducted. The first preliminary interview was a basic probability test with a few card games being played. 
+                The second set of interviews on Day 1 were going to be 3 interviews of 1 hour each, starting at 5 am for me. These interviews mainly focused on playing and optimizing strategy to some games, be it card game or simple coin flipping. Post these interviews, I had no idea of how they had gone and could only wait to see if I had been selected.
+                When the list of selected students came out, my name wasn’t there. My confidence in my prep got badly shaken and I was devastated. Eventually after talking to my friends and family, I quickly recovered as I still had opportunities left.
+              
+
+                Soon after, Optiver’s GD shortlist came out, and on seeing my name there, my confidence was slightly restored. The GD itself was one of the best experiences I ever had. It was split into 3 parts, firstly a basic probability puzzle which was identical to one of my favourite puzzles from TedEd. The second one was a market making game/guesstimates which was an amazing experience. The third one was a market making game on a coin flipping game which was again discussed in detail in the book by Xinfeng Zhao mentioned above.
+              
+
+                Post the GD, I was feeling great and seeing my prep pay off restored my confidence. 
+                The final interview shortlist for Optiver came out and I saw that I had been selected.
+                I had been told by my seniors beforehand that Optiver had an HR round and I decided to do a little more prep for it. When the final day came, I joined the zoom meeting and was then directed to the breakout room for my hr interview. The interview went extremely smoothly and at one point I was just discussing my favourite books and movies with the 2 interviewers. When I mentioned I liked maths, the interviewer immediately asked me a basic multiplication problem which was quite out of the blue but easy nonetheless. 
+              
+
+                After finishing my HR interview I was told I had a technical interview next which meant I had cleared the first hurdle as a few people were cut after the HR interview. The technical interview went as perfectly as it could have. They started off by asking a puzzle which again came directly from TedEd and on telling them I knew it, they decided to choose an alternate puzzle instead. This happened 2 more times before they decided to just move on to some market making and card games. This was again immensely fun and the interviewers really made me feel at ease. Post this I was told I can leave the meeting. I was overall prett\y happy and confident in my chances and when the list of selected students came out and my name was there, I was ecstatic.
+              
+
+                I was so excited to be able to travel to Amsterdam and explore a new culture, but it got a slight bump when I found out some of the students' visa applications had been rejected. I was concerned about what would happen with my visa application, but luckily mine had been approved. I was off to Amsterdam. The experience was surreal. Despite being so far away from home, it never felt like that with the people at Optiver being extremely welcoming and kind, as well as the fellow interns being an amazing group of people. 
+              
+
+                The intern itself was a very well structured experience. The first few weeks were spent learning the basic theory of finance and options. Post this, there was simulated trading which was easily the most fun experience of the whole internship. Getting to trade with actual live market data is an experience beyond comparison. After sim trading, we all worked on our own individual projects related to trading which could be incorporated into the system as is, all the while sitting on the trading floor and being able to learn a lot from the abundance of experience there. To cap it off, we returned to sim trading. All the while, we were constantly playing market making games which even became a regular thing outside the office. 
+              
+
+                The hours were long in the intern with 12 hour days being fairly common especially during sim trading, but despite this there was no boredom at any time and you never felt tired during the days. The weekends were always free and this led to us traveling a fair bit, getting to see Europe and greatly enjoy our time in Amsterdam. Overall, it was an experience beyond compare and completely amazing. The exposure to the different culture, country, corporate world and the finance field is something which was absolutely invaluable.
+              
+
+                Don’t stress too much about the intern season. It’s not a make or break moment, instead it’s more of a learning experience, both about the field you’re interning in and also about yourself, how you tackle and overcome various problems. The only thing you should take care about is that you should always feel like you did the best you could have and you should be happy with your effort once you’re done with your interview, test, GD or the like. Create a good support system whether it be your family, friends or a mix of both because you can’t always have results go your way and having people to help you is a must. Don’t worry too much, pester your seniors for help (what else are we there for), and be confident in your own abilities and choices, especially regarding your choice of companies or universities to apply to. Feel free to contact me for any help and all the best for the upcoming season!
+              
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

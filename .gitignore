@@ -1,0 +1,8 @@
+rag_env/
+data/chunks.pkl
+data/faiss_index
+__pycache__/
+*.pyc
+.env
+venv/
+fresh_env/

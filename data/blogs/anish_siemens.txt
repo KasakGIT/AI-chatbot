@@ -1,0 +1,117 @@
+Hi junta!!
+
+                This is a short post about my internship experience at Siemens.
+                I am a 4th year undergrad at MEMS department and I interned at
+                Siemens from a work from home setup in the summer of ’22.
+              
+
+                At the end of my 2nd year, I was quite sure that I wanted to go
+                into tech, so I applied only for IT/software and analytics
+                profiles. But since I did not have much coding experience, I
+                didn’t get shortlisted in IT/software companies. I was a bit
+                disappointed and started doubting myself, but I didn’t give up
+                and promised myself that there was light at the end of this
+                tunnel.
+              
+
+                After about two and a half months of getting very limited
+                shortlists, I found out about Siemens in the 3rd week of
+                October, through its IAF via the internship portal from PT cell.
+                There wasn’t much given in the description but there were
+                actually a variety of project topics for which you could get
+                shortlisted but topic selection could not be done beforehand and
+                was allotted by the company itself based on your resume.
+              
+
+                I quickly signed up for it as Siemens is an MNC and has base in
+                several countries around the world, and also because it had
+                applications of ML in one of their projects’ descriptions. The
+                previous seniors who had interned there had had a pretty good
+                experience and my decision was reinforced. Plus, there was no
+                coding test, which was a big plus point for me😊, as I didn’t
+                have much of a coding profile.
+              
+
+                The interview selection process had just one aptitude test along
+                with resume shortlist. As for the interview, there was only one
+                round and the interviewer was also pretty chill. I was asked
+                about some of the projects on my resume and my motivation for
+                working on the problem statement which they had described.
+                Luckily there was no HR round. Talking to seniors proved to be
+                really helpful while preparing for the interview.
+              
+
+                I did not prepare anything company specific as such, as I didn’t
+                know about the company beforehand, but I did have a background
+                in machine learning, which I learnt initially from Coursera xD,
+                and from a couple of ML projects from my minor courses in the
+                C-MlnDS department. Before the interview, I brushed up on basic
+                ML algorithms like KNN, Decision Trees and Neural Networks,
+                mostly about how they work and how they can be applied in
+                different problem statements.
+              
+
+                The profile of the internship was more on the R&D side. I was
+                selected for the digital twin section of their research
+                department; you can read more about this on their website. And
+                so, my work was not exactly on ML but the overall problem
+                statement had applications for ML. The team I was assigned to
+                was working on developing a state-of-the-art algorithm which
+                could give us the differences between two versions of the same
+                data in a short amount of time. Several techniques had already
+                been invented to solve this but the computation time was huge
+                for larger input file sizes. So, essentially my task was to go
+                through a few research papers on this topic, understand their
+                logic and try to come up with an implementation. I thoroughly
+                enjoyed the project as it was something I had never done before.
+                The learning curve was a bit steep but interesting and
+                entertaining at the same time. My supervisors were very
+                supportive and encouraging. They were easily approachable
+                (online only though☹) and ready to help you out even on the
+                smallest issues.
+              
+
+                The internship was entirely online and although there was a
+                fixed working schedule, it didn’t really feel as much due to the
+                WFH setup. You could login when you wanted and log off when you
+                felt done for the day. I had regular meetings with my team
+                everyday which really helped in overcoming the difficulties I
+                faced along the way. The one great thing about a WFH setup is
+                the awesome advantage of eating delicious, home-cooked food all
+                while working from the comfort of your home!
+              
+
+                Since most of my work involved reading research papers and
+                implementing it, the WFH setup didn’t have much of an impact on
+                the work front. But there was a lack of interaction and exposure
+                from other teams and the projects other groups were working on
+                due to the online format. I feel that in-person interaction is
+                very important to grow as an individual as there is only so much
+                you can do through a Teams meet. The communication is much
+                richer and more vibrant and one can learn lots by communicating
+                directly with the people in the company, an experience which I
+                was devoid of.
+              
+
+                Overall, it has been a great experience, full of challenges and
+                getting to learn new stuff along the way. My advice to all the
+                juniors preparing for the internship season would be to have
+                faith in your skills. At times it can feel low and discouraging
+                if you are not getting shortlisted in many of the companies you
+                apply to, but remember this is just a phase and you will get
+                through it no matter what. I also want to stress on the resume
+                front, you should be fully thorough with your resume, know every
+                word you put there and be ready to defend it in the interviews
+                (having a decent CPI grants you extra brownie points too). In
+                case of interviews for ML profiles, you will be asked mostly
+                about your projects and their inner workings. Have a good grasp
+                and you will sail through the process effortlessly. Just believe
+                in yourself, have confidence and you will make it in no time!
+              
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

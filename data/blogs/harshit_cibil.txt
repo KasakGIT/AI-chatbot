@@ -1,0 +1,69 @@
+
+                                        I was born and brought up in Jaipur. Graduated in Electronics and Communication Engineering, I worked as a software engineer at Philips Innovation Campus, Bangalore for two years. Post that, I decided to switch streams and enrolled for MSc in Applied Statistics and Informatics at IIT Bombay.
+                                    
+
+                                        The IAF was opened on the internship portal.
+                                    
+
+                                        TThe idea was to explore a data analytics profile while solving a real-world problem. An internship in the same was a perfect way to do it. My enthusiasm for Mathematics and Statistics was put to use, in addition to the programming skills I had developed previously. So, the two months were expected to be gratifying and I went for it. 
+                                    
+
+                                        Most companies usually conduct two rounds of interview. Sometimes it can be one or three. For me, it was just one. I was asked the applications of hypergeometric distribution, Central Limit Theorem and various sampling distributions. Then there were small case studies based on estimation techniques (both point and interval). Finally, I was asked basics of SQL. The interview was concluded with some fundamentals of Python language. 
+                                    
+
+                                        I chose Python as my programming language. R is another good option. Whatever language you choose, make sure you know all the key libraries relevant to data science. On top of it, I had to strengthen topics like regression, random forests, hypothesis testing, decision trees, limit theorems in statistics, statistical inference and... DBMS (a highly underrated topic in context of interviews). I had to practice explaining the concepts in layman terms. because many interviewers want that. For technical tests, I had to work on my speed of solving problems (because that’s what makes a lot of difference).  
+                                    
+
+                                        I was given a proof of concept.- whether it is possible to generate synthetic data when historic data is at hand. There are only so many libraries available for this purpose. The catch here is - every historic dataset has its own features. Some of the attributes can be purely random, some are related to each other and some have well-defined statistical properties. I was supposed to find out if a synthetic dataset that replicates all such properties of given dataset can be created.
+                                    
+
+                                        Personally, I did not prefer working from home (as much as I agree it has some pros). Working at the office brought more productivity out of me. 
+                                    
+
+                                        However, Mumbai’s weather can be relentless at times. Commute can get difficult due to heavy rain and then working from home is the only option. On such days, I worked at precisely the same timings. Pros, travel time is saved (which can be a lot). Cons, not all company resources can be accessed from personal network, because interns do not necessarily get VPN access.  It is important to log in at the same time as other days and not be complacent about daily objectives. 
+                                    
+
+                                        Not to forget, networks formed by offline conversations tend to be stronger.
+                                    
+
+                                        Some of the key differences are: 
+                                    
+
+Networking - Working at the office allows one to be more at the right place at the right time. That is, transfer of knowledge related to work, life and everything else happens much smoother. On the other hand, it is observed that conversations between employees/interns working from home are mostly crisp and need-based. That leaves less room for socializing between colleagues. 
+                                    
+
+The line between personal and professional life - This line becomes blur while working from home. The reason being there is no notable difference between your personal and professional space.  
+                                    
+
+Travel and expenses - Working remotely can save time, money and energy associated with traveling. These factors become all the more important in a city like Mumbai.
+                                    
+
+                                        Pros - 
+                                        The comfort of home and the amenities it offers
+                                        A lot of cost saved which invisibly follows interns working traditionally
+                                    
+
+                                        Cons - 
+                                        Less likely to experience work-life balance
+                                        Less opportunities to network in person with experienced colleagues
+                                        Less exposure to tangible corporate environment
+                                    
+
+                                        To be honest, I do not have a specific label for this experience. It was a mixed bag of learnings, highs and lows, struggles and convenience, I can go on. Posted in Mumbai, it was an easy choice to stay on Campus during the two months. I cannot help bringing up the local train. The hassle, the choice of timings, the people you travel with, is an education in itself. Besides, the vibrant city culture is something to behold. Coming to the workplace, I really liked the Office environment. My team always maintained a friendly air. Team bonding was among the top priorities and the fellow workers were quite supportive.  
+                                    
+
+Balancing different roles - As an intern, I had to wear the hats of an employee and a college kid at different times. As the latter, I had to get comfortable and casual with friends on campus real quick. As the former, I had to understand that my relations are somewhat dependent on my intent and quality of work. Balancing both the thought processes and choosing my personas as per the situation was something I developed in this time. 
+                                    
+
+                                        Interns are usually given an unsolved problem for their team. The idea to deal with it can be something elementary or taxing. It is your creativity that will find the missing link your team wants. I learned how to trust the process, persist and eventually bring out that piece of innovation that solves the problem. 
+                                    
+
+                                    First things first, start early. Before the start of recruitment season, you will have a set of topics to learn. Get in touch with your seniors who were hired by your dream companies previously. In addition to those, spend some time with aptitude, verbal and non-verbal reasoning, communication skills and body language. This is because technical exams and interview preparation should go hand in hand, and a lot of students might miss the trick. So, be well-equipped for selection at all times. Best of luck :) 
+                                    
+
+                        The one stop solution for news at IIT Bombay.
+                    
+Microsites
+Legal Stuff
+
+                Copyright © 2022 InSight, IIT Bombay

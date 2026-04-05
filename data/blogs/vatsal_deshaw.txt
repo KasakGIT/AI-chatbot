@@ -1,0 +1,16 @@
+Hi, so I am Vatsal Goyal, I am a fourth year computer science & engineering student and I interned at DE Shaw India in my 3rd year Summers.
+I heard about the internship through my seniors. I wanted to pursue software engineering in my 3rd year Summers, and DE Shaw is among the day 1 software companies that come to insti, and that is why I decided to pursue the internship.
+There was initially a coding test conducted followed by interviews for the shortlisted candidates. The test consisted of 3 DSA problems of medium to hard level. Interviews were held offline as well, they took 3 interviews for me. In the first interview, they asked questions based on system design and data structures. In the second interview, I was asked a coding question and some fundamental CS questions, after which the interviewers started discussing a project on my resume, we ended up discussing the project and my approach for majority of the 1 hour interview. In the 3rd interview, another DSA problem was asked, and then they asked questions based on the courses I had completed already. 
+                
+Like any software internship, the majority of the preparation is practicing DSA problems from websites like Leetcode, InterviewBit etc. I followed Leetcode, and focused on medium and hard problems there. I followed Striver’s sheet to get a consolidated lists of problems for various topics. Topics like graphs, trees, and dynamic programming are very important.
+In the internship, I got a project based on ML and NLP(and hence not software). The project involved text classification and data mining for proprietary data. The company gets lots of notices from various exchanges which may or may not require code changes. I had to automate the process of identifying which notices might require code changes. I had complete ownership of the project and the problem statement was challenging. 
+The work experience was great, the people at the firm were really great. Although the intern was very hectic, in the end it was rewarding since I got to solely on a big project from start to finish. For the internship I had to move to Hyderabad, the firm provided comfortable accommodation. This was my first time in Hyderabad and I really liked the city.
+The problem statement was novel and I had to try a lot of things before coming up with a solution. Among the technical aspects, I also learnt how to design code for a big project, how to write code which can be extended and used easily and how to test the code. Another important skill I learnt was selling and presenting my work.
+Overall, it was a really rewarding experience, and I really enjoyed the time I spent at the firm.
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

@@ -1,0 +1,42 @@
+Hello folks
+I am Shivam Ambokar, a to-be fourthie in the Department of Mechanical Engineering. I interned at JLR (previously known as Jaguar Land Rover) in the Mechatronics profile, aka, Engineering Body & Chassis.
+                
+Even before coming to the institute as a freshie, I was inclined towards mechanics & machines, but that can be considered sort of an uninformed & childish interest without any proper exposure. However, once here & after having seen what exactly constitutes “Mech” (at least to some extent), I was sure this is the thing I wanted to do further. And again, given my exposure to core mechanical engineering (at least some sections of the same) through my tech-team AUV-IITB, I have more-or-less always been inclined towards a career in the core engineering sector.
+Now, regarding JLR in specific, I first came across JLR as a potential internship option while randomly scrolling the internship blog one fine afternoon in the second year. Jaguar is a name I recall from my childhood when me & my friends, all still in primary school, would look at these cool cars & be awed by how cool they looked. Naturally, it felt like an inner calling. Getting to “make a Jaguar” was an old dream. And then, it also turns out that while the core sector is infamous for not paying well (at least in the beginning), JLR pays pretty well too, thus being even more attractive. 
+A combination of these several factors made me go for this internship.
+The selection process consists of resume filtering, then an online test & finally an interview.
+                
+The test consists of a reasoning & mental-ability section, a section on fundamentals of mechanical engineering & a section on coding. The last one had two medium level problems. 
+The next & the last round is the interview. My interview was held for around 45 minutes, out of which around 35 minutes were spent on questions related to core-mechanical engineering (and an intro in the first five minutes or so), while the last 10 were spent on some HR-questions.
+Once there, I learnt that my profile was called “Engineering Body & Chassis”. I was expecting a project in perhaps the CAE division, or something related to controls or designing. Unlike all of these thoughts & expectations, I was assigned a project under the Quality team (Warranty Mitigation). Note that JLR gives actual projects to interns. Projects are not ‘invented’ specifically for testing or amusing the interns. Hence, projects depend heavily on what is needed by the company.
+Regarding my project in specific, I had a lot of data about error-codes (called DTCs) flagged in different parts of the car (in actual, real life, customer cars) and I was supposed to come up with a process to analyse this data in the context of current cars to identify & define issues/problems. This sounded somewhat like the job of a data analyst, but due to it being deeply rooted in mechanical problems, it required some knowledge of the same as well.
+Initially, I was slightly dissatisfied with this allocation, given my expectations I’ve mentioned above, but decided to go forth anyway. The thing to learn here is that your job is based on, not your interest, but rather on what the company needs. Interestingly enough, I had seen similar conditions while working in the tech-team as well. Hence, it was not a very foreign state to be in.
+However, later on, I liked the work so much that I even went to a JLR service station to look at the procedures I was dealing with on a daily basis while analysing the data. It was fun talking to all the technicians there, understanding their work & trying to gauge how my work could potentially benefit them.
+Note that apart from this, in the EBC team, we had several learning sessions, going from fundamentals of mechanical engineering to high-level problems such as designing of a product & the complexities of exterior lighting systems. These were fun parts of the internship that kept all ten of us interns connected to the basics while giving an exposure to the wider industrial machine.
+Overall, at the end of it, I was left satisfied. I learnt several new things - from Agile methodology, to the 8D model to resolve problems, from the intricacies of developing a car from scratch, to the fine points in fundamentals we tend to miss in the class. I was left with tons of memories & an exposure to a wide variety of subjects.
+(By this, I believe I am being asked to mention the prep for the selection process)
+For preparation for Mechanical Engineering related topics, I simply went over all the slides from all of my 2nd year core courses. Along with reading, I also solved some problems or went over derivations for greater clarity. This exercise can take quite a long time and I would suggest starting with this ASAP. I believe this is an essential thing for an intern in the core sector. Even from the perspective of the interview, expect questions from literally any corner of your 2nd year courses. I was asked questions varying from torsion till vapour pressure. Hence, be thorough with the whole of your 2nd year curriculum.
+I would also suggest going over simple mechanisms such as gears. There were some simple gears-based questions in the JLR test. Along with this, go over the basic structure of a car. Look at basic things such as what the different wheel angles are called, and how different parameters affect braking etc. This must be done only after finishing the revision of 2nd year courses. 
+For the coding section, the earlier you start, the better. Given that I had some running knowledge of C++ & some of the required concepts (I had spent a short amount of time on these in the summer break), I started directly with problems post summer & continued learning on the go. 
+                
+Accommodation was provided by the company. All we had to do was reach the location.
+
+                    (One amusing thing to notice while travelling from Maharashtra to Karnataka is the shift in the colour of the soil from black to red!)
+                    
+Be thorough with all the fundamentals of mechanical engineering. This is generic advice.
+                    
+Be accepting and willing to try new things out. Be ready for projects that might be different from things that interest you in general. You should look at such cases as opportunities to explore new domains.
+                    
+All in all, have fun & learn all sorts of new stuff. This would be a great opportunity to look at things going on in the industry & how these differ from our courses. Make the most out of it & try your best to go the extra mile. There is no doubt in the fact that your efforts would be recognized & well appreciated.
+Start working diligently from day one. Even at the workplace, prioritise work over everything (of course, have food on time & sleep well. Health is the highest priority, no doubt.). 
+Secondly, make connections. Talk with as many people as you can and try to genuinely learn from whatever they have got to say/show. 
+And related to the previous point, interact & try to gain exposure to a wide variety of fields. Ask as many questions as you feel like. If someone is working in say exterior lighting, ask them how it all exactly works & what exactly they are working on. 
+                    Connections, exposure and the experience are probably the biggest high-value outcomes of an internship.
+                    
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

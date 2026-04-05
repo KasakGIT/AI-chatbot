@@ -1,0 +1,276 @@
+
+                Hey everyone! I am Kunind Sahu, a BTech thirdie (to-be-fourthie)
+                in the MEMS department. I’m super enthused by applied ML -
+                especially Graph Machine Learning. I also love to play video
+                games and watch thriller/horror shows. Yes! I’m back to bore you
+                with yet another long write-up, this time about my summer
+                experience as an Analyst Intern at American Express in their
+                Credit Fraud and Risk Wing. So, without further ado, let’s get
+                into it.
+              
+
+                Points 1-5 talk about my experience in the internship season and
+                AmEx’s selection process. Points 6-8 talk about my actual
+                internship experience.
+              
+
+                    I kinda had an idea of what I wanted to do - I wanted to go
+                    for roles which involved Machine Learning - essentially the
+                    analytics domain (although not the entirety of it). I was
+                    sure that I wasn’t interested in applying for roles along
+                    the lines of ‘business analyst’ because they were
+                    non-technical in nature.
+                  
+
+                    The basic idea was that I had done a second year summer
+                    research internship - where I was exposed to how Machine
+                    Learning was being employed in an academic setting. This
+                    time around, I wanted to experience the corporate world and
+                    how Machine Learning was being used in the industry - maybe
+                    in some kind of industrial RnD or some applied Machine
+                    Learning.
+                  
+
+                    Although I did not enjoy software development much, I
+                    nevertheless decided on applying for some software
+                    development roles as well. I had done a course on Options
+                    Pricing over the summers through Finsearch, organized by
+                    Finance Club - that got me all interested in the field of
+                    quantitative finance as well, so I applied to a few quant
+                    finance roles too. In summary, the profiles I decided to go
+                    for were - Analytics (ML), Software, Quant Finance.
+                  
+
+                    I have written in detail about my internship season
+                    preparation right here.
+                  
+
+                    The internship season was nerve wracking to say the least.
+                    As I’d mentioned above, I wanted to work with ML in the
+                    corporate setting - either an RnD role or some good
+                    application based ML role. Unfortunately, mostly, none of
+                    the Day 1 companies were open for my department (only open
+                    for CS, Elec and sometimes BS Math) - which, it goes without
+                    saying, was quite demotivating. Apart from one company
+                    (Optiver), Day 1 went by without much activity with respect
+                    to shortlists/selections.
+                  
+
+                    The American Express IAF had opened just after the Day 1
+                    companies announced their results. Their job profile fit
+                    well with my expectations of my third year summer
+                    internship. American Express was hiring in their Credit
+                    Fraud and Risk (CFR) division for the upcoming summer. The
+                    CFR team is responsible for developing state-of-the-art
+                    Fraud Detection models to prevent credit card fraud and
+                    catch possible defaulting clients.The fact that I had quite
+                    recently done a course project on Credit Card Fraud
+                    detection made me all the more excited about this role.
+                    Interesting team? Check. Good work? Check. Great company?
+                    Check. The IAF was immediately signed ;)
+                  
+
+                    AmEx is a financial services company, which issues its own
+                    credit cards and corporate cards - which are invite-only. It
+                    usually tends to operate in the premium high spending
+                    segments. In this way, it is different from Visa and
+                    Mastercard.
+                  
+
+                    Any credit card transaction has three entities associated
+                    with it. You have the consumer, who’s buying a commodity
+                    with their credit card, you have the merchant who accepts
+                    the card and sells the commodity, and then you have the
+                    technology network over which this transaction takes place
+                    (Visa, Mastercard or AmEx). Let’s assume the customer’s bank
+                    is HDFC, the transaction network is Visa and the Merchant’s
+                    bank is SBI.
+                  
+
+                    Visa and Mastercard don’t issue their own credit cards -
+                    they are issued by the respective banks. In our above
+                    example - the customer’s data is held by HDFC Bank, the
+                    transaction information (and metadata) is held by Visa and
+                    the merchant’s information is held by SBI. No single entity
+                    has access to the complete data about the transaction here.
+                  
+
+                    This is where AmEx comes in. AmEx issues its own cards -
+                    thus AmEx has complete information about any of its credit
+                    card transactions - information about the customer, about
+                    the transaction and that of the merchant. This forms a
+                    closed loop, which AmEx leverages in its ML models to make
+                    them state-of-the-art. Having access to the complete data
+                    enables them to better capture fraud and mitigate potential
+                    risks. Additionally, it was the very first company to deploy
+                    an ML based fraud detection model in service (2014).
+                  
+
+                    Thankfully, there were no DSA rounds in the AmEx selection
+                    process The selection process involved:
+                  
+a. Resume Shortlisting
+
+                    b. ML Based Test (Those who did well were shortlisted for
+                    the interviews) Which comprised very easy MCQ questions on
+                    Machine Learning (basic ML knowledge was required to ace the
+                    test)
+                  
+
+                    c. Interview (2 Rounds) 
+                    The interview comprised two rounds - none of them were
+                    really demarcated as Technical / HR. Both kinds of questions
+                    were asked in both rounds. The major focus of the interviews
+                    was my resume, specifically, the projects I did, especially
+                    the one on credit card fraud detection. We had worked quite
+                    extensively (tried many techniques, quite a few of which
+                    failed) - which made for quite an amazing discussion 
+                    I was pretty familiar with the mathematical details and
+                    workings of all the algorithms I had implemented in my
+                    projects - thus I tried to steer the interview in that
+                    direction. I did go quite deep into the mathematical aspects
+                    of the algorithms I had used. Apart from the resume, a few
+                    AmEx specific questions to know if I knew about the company
+                    and two puzzles. All in all, I left the interview feeling
+                    quite confident about my performance.They had also asked me
+                    about my project preference - either Big Data & Machine
+                    Learning or Data Analysis. I chose the former
+                  
+
+                    I was looking forward to an offline corporate experience and
+                    getting to interact with all my co-interns from other
+                    colleges. Although, to our dismay, the internship was being
+                    conducted in an online mode. Although, internally, AmEx had
+                    this policy where employees could voluntarily choose to come
+                    to the office. Once I got to know this, I discussed it with
+                    my Manager and packed my bags and left for Gurgaon ASAP!
+                  
+
+                    My project could be considered as an applied RnD. It mainly
+                    revolved around applying Unsupervised Machine Learning, ML
+                    model explainability techniques to understand model outputs
+                    and prescriptive analysis, to a problem the company was
+                    facing.
+                  
+
+                    Oh boy, I’m so glad that I chose to go to Gurgaon and work
+                    in the office rather than working from home. AmEx owned an
+                    entire building in the One Horizon Center campus in DLF
+                    Phase 5 Gurgaon (although that was not its best office in
+                    Gurgaon. The best office, which was on the top floor in the
+                    main building of One Horizon Center - was closed :/). I got
+                    to meet my immediate and the extended team and was able to
+                    network with all of them (atleast when they did come to the
+                    office haha). AmEx had this awesome complimentary cab
+                    service which could be availed to travel to and from the
+                    office from your residence. Additionally, the workspace was
+                    quite open and there was a huge monitor on each workspace -
+                    (a dream for any programmer!).
+                  
+
+                    Talking about Gurgaon, I was kinda let down by the city -
+                    especially by a not-so-vibrant street food culture, even
+                    though Delhi was so close. But yeah, we did explore the city
+                    a lot and found some good places to eat (Sector 46!). My PG
+                    flatmates (the ones from IITB) and I did go out over the
+                    weekends and went around - especially to places in Delhi. I
+                    did have many insti friends interning in Delhi, one of whom
+                    claimed that Delhi was much much better than Mumbai
+                    (personal attack) and I was expecting that friend to show me
+                    around. Long story short - don’t expect anything of your
+                    consulting friends XD.
+                  
+
+                    I was working on the team of the very same VP who’d
+                    interviewed me. Mid-way during the internship, he had taken
+                    out the entire team managed by him - including the
+                    directors, managers and all the other levels had out for a
+                    treat! There were many such outings I had with my team.
+                    Haha, one of the perks of taking extra efforts and going to
+                    Gurgaon all the way from Mumbai and working from the office
+                    (and being a super enthusiastic intern xD).
+                  
+
+                    My team had this culture, where everyone met every Friday
+                    evening to chill out and play team games :). Codenames,
+                    Skribbl, Drawbattle, Psych – we played it all. Well, I had a
+                    suspicion that I was really good at Pictionary and Dumb
+                    Charades, but it was always hypothesized on small sample
+                    sizes. Now that I actually played with my team, it more or
+                    less checked out XD. The AmEx work culture is nice and
+                    supportive and people there are really helpful and eager to
+                    help you out. Anyway, this is pretty much how it went until
+                    the first week of July, by which time I had my end-term
+                    presentation.
+                  
+
+                    Frankly, I’m glad that I chose to go to the office and work
+                    from there - I was able to network with people (though not
+                    as much as I would have been able to if things were
+                    completely offline, but hey, it was something) - all in all
+                    it was an enthralling corporate experience - something which
+                    I’ll certainly remember.
+                  
+
+                    I’d say that the internship was more about applying the
+                    skills I was already familiar with - to try to solve a
+                    problem the company was facing. Nevertheless, I did learn
+                    quite a few things - improved command line scripting,
+                    knowledge of new state of the art ML algorithms and patience
+                    (:P) when the ML algorithms are running (I was manipulating
+                    a massive real life dataset comprising 3 years’ worth of
+                    data - even with AmEx’s strong hardware, it took some time
+                    to process).
+                  
+
+                    It was nice to know AmEx’s business practices and their
+                    usage of closed loop to create awesome ML models and
+                    leveraging all that information to improve upon their
+                    services. Last but not the least, and one of the most
+                    underrated of the lot - presentation and communication
+                    skills. It was super important to present my work and
+                    findings well - the people watching my presentation would be
+                    from diverse backgrounds (technical / non-technical), many
+                    of whom were not at all familiar with what I’m doing.
+                  
+
+                    Yeah yeah, I’m finally done with this yet another overly
+                    prolix and unnecessarily detailed write-up about yet another
+                    internship experience of mine (*sheepish smile*). On a
+                    serious note, the internship season is a good experience to
+                    have. Its also a great opportunity to learn more about your
+                    preferences and interests. Yeah, Day 1 companies are great,
+                    but it doesn’t mean that if you don’t get “Day 1”, the
+                    internship season is over for you. Not at all! Quite the
+                    contrary in fact, there are many good companies which don’t
+                    come on Day 1 - AmEx being one of them. Actively look out
+                    for such opportunities around you, which are to your liking
+                    and of course, do ask the interviewers more about the job
+                    profile and the kind of work that would possibly be allotted
+                    to you.
+                  
+
+                    Also, I can’t stress on this enough, please please please
+                    keep in constant contact with your friends; keep talking to
+                    them, prepare together, it’ll help improve both of your
+                    moods and would kinda act as a morale booster. Internship
+                    season is of course a super important period (and super
+                    stressful too) in your stay here at IITB. There are surely
+                    going to be times when you are going to feel really down and
+                    not up for it - talking to your friends would always help
+                    you out. Also, it isn’t a zero sum game, help them and let
+                    them help you - don’t compete with them, rather, walk
+                    together :). Thank you soo much for staying with me until
+                    the end of this long monologue-ish story write-up. Another
+                    shout out to Insight for giving me this opportunity to pen
+                    down my thoughts (read: blabber) about my internship. All
+                    the best! Do feel free to contact me, I’d be happy to help
+                    in whatever way I can!
+                  
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

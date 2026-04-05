@@ -1,0 +1,70 @@
+X
+import os
+import pickle
+import numpy as np
+from sentence_transformers import SentenceTransformer
+import faiss
+
+DATA_DIR = "data"
+BLOGS_DIR = os.path.join(DATA_DIR, "blogs")
+CHUNKS_PATH = os.path.join(DATA_DIR, "chunks.pkl")
+INDEX_PATH = os.path.join(DATA_DIR, "faiss_index")
+
+def chunk_text(text, source, chunk_size=200, overlap=50):
+    words = text.split()
+    chunks = []
+    for i in range(0, len(words), chunk_size - overlap):
+        chunk = " ".join(words[i:i + chunk_size])
+        if chunk:
+            chunks.append({"text": chunk, "source": source})
+    return chunks
+
+def build_knowledge_base():
+    if os.path.exists(CHUNKS_PATH) and os.path.exists(INDEX_PATH):
+        print("Knowledge base already exists, skipping rebuild.")
+        return
+
+    print("Building knowledge base...")
+    all_chunks = []
+
+    # load blogs
+    for filename in os.listdir(BLOGS_DIR):
+        if filename.endswith(".txt"):
+            filepath = os.path.join(BLOGS_DIR, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                text = f.read()
+            source = filename.replace(".txt", "")
+            all_chunks.extend(chunk_text(text, source))
+
+    # load placement report
+    report_path = os.path.join(DATA_DIR, "placement_report.txt")
+    if os.path.exists(report_path):
+        with open(report_path, "r", encoding="utf-8") as f:
+            text = f.read()
+        all_chunks.extend(chunk_text(text, "placement_report"))
+
+    print(f"Total chunks: {len(all_chunks)}")
+
+    # embed
+    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    texts = [c["text"] for c in all_chunks]
+    embeddings = model.encode(texts, show_progress_bar=True)
+    embeddings = np.array(embeddings).astype("float32")
+
+    # build FAISS index
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(embeddings)
+
+    # save
+    faiss.write_index(index, INDEX_PATH)
+    with open(CHUNKS_PATH, "wb") as f:
+        pickle.dump(all_chunks, f)
+
+    print("Knowledge base built and saved!")
+
+if __name__ == "__main__":
+    build_knowledge_base()
+cXXxxx
+XX
+^X
+

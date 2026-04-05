@@ -1,0 +1,52 @@
+Hi, I'm Aakash Jha, a soon-to-be fourth-year student in the Civil Engineering
+                    Department. I am from Mumbai and I completed my summer internship as an
+                    analyst at Axis Bank.
+After my third semester, I participated in the WIDS program by the Analytics
+                    Club, where I completed a bootcamp and a project. This experience sparked
+                    my interest in machine learning, leading me to take a minor course in
+                    Introduction to Machine Learning. Additionally, I pursued various online
+                    courses and completed projects in this field. Later, I interned at Deloitte as an
+                    Analyst.
+These experiences solidified my desire to work in a role involving machine
+                    learning. However, I also had an inclination towards quantitative finance due
+                    to my completion of a course on algo trading..So, basically the profiles that I
+                    was targeting were data science,quant finance and software(as I had done
+                    some dsa and competitive programming in the past).
+                
+As I prepared for interviews in these domains, I learned from seniors that
+                    companies often ask puzzle and probability questions alongside technical
+                    ones. To prepare, I studied two books: "Fifty Challenging Questions in
+                    Probability" and "Heard on the Street."
+Initially, my chances were impacted by not having a high CPI during the
+                    internship season. Many companies in my target domains had either internal
+                    CPI cutoffs or limited openings for non-circuital branches. I really liked Axis
+                    Bank IAF as its JD had all the elements that I was looking for.The initial round
+                    had two straightforward coding questions based on maps and sets. I was
+                    among the five shortlisted candidates for the final round, where they asked
+                    questions about my projects, a guesstimate, and easy puzzle. Three of us
+                    were ultimately selected, and I was one of them.
+During my internship at Axis Bank, I appreciated the fact that it was entirely
+                    office-based. I was assigned to the Retail Deposits Team of Axis BIU, where
+                    my responsibilities included creating a star schema data model and an
+                    automated dashboard using SAS VIYA. Additionally, I developed a customer
+                    deepening model to predict the deepening of our mapped customers. Despite
+                    the hectic travel, I thoroughly enjoyed my experience because I was
+                    passionate about the work I was doing.
+For those targeting the data science domain, my advice is to not only focus on
+                    resume preparation and puzzle-solving but also invest some time in
+                    
+                    strengthening your data structures and algorithms skills. Companies in the
+                    data science field often include coding questions in their test rounds, and you
+                    wouldn't want to miss out on opportunities due to this aspect. You can practise
+                    coding questions using the provided link. Moreover, remember that the
+                    internship season can be unpredictable, so don't get demotivated if you don't
+                    secure an internship right away. If you have worked hard, you will eventually
+                    find a good opportunity. Best of luck! Feel free to reach out to me if you need
+                    any assistance.
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay

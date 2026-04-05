@@ -1,0 +1,55 @@
+
+                So before I begin, I’ll give a short disclaimer. I am a terrible storyteller(and I use a lot of brackets), and it might not seem so while reading the article, but I thoroughly enjoyed my internship, the work I did, and all the small adventures we had(me and my co-interns). Oh, and my internship prep was not the best. Ok, wait, maybe that statement isn’t strong enough; let me put it this way, I was once asked to present some of my points in a resume making session just to demonstrate how a lousy resume looks.
+              
+
+                With that out of the way, I’ll introduce myself. I am Jai Jobanputra, Fourthie in the Aerospace Department. I interned in Atomberg and will try and give you a glimpse of my journey. Aah, the word “journey” reminds me of how my feet got sore on my first day… Ok, I am getting ahead of myself. Let me stick to my pointers.
+              
+
+                “How did I find out about this intern?” I would like to say this was my dream company I tracked people working under it and… but no, I saw a core company opening for Aero and applied for it (I realised after applying that fan above me in H3 was of the same company)
+              
+
+                “Why were you enthusiastic to pursue this intern?” If someone could give me five more company names that offer core-aero internships, please contact me….
+              
+
+                “How did you prepare for the intern?” Ok, now I hope you got the drill; I’ll skip over the pointers and directly jump into my experience. 
+              
+
+                Now whoever is still reading this article, a word of advice, make sure you know the location of your office/plant well before planning anything. Trust me, if you get to know that you’ll not be staying on campus two weeks before your intern, you’ll panic. I assumed that if the office is in Mumbai, my work would obviously be in Mumbai, but no, it was in Chakan(more rant on it later). So yeah, I went with zero planning and thankfully, my co-intern (Hardik, as he hates being called “co-intern”)was a bit more prepared and asked HR to provide a temporary stay. We eventually found a PG with no water, a story involving F1 racer Autos and a 4-hour course of market study of the hospitality sector offered by another auto-driver, but if I go into every such story, this article would never end.
+              
+
+                I know I said no more stories, but I’ll just narrate one more experience so that you get an idea of how the city in which you work matters (just kidding, I just want to find an excuse to tell this story). So just before our first day, Hardik and I decided it would be a good idea to walk 4kms to our plant (yeah, I should have explained I worked in front of the assembly line, not in an office). Also, we decided that a few detours of, say, 2kms here and there definitely won’t hurt. Now I don’t know how mirages work, but I swear, after walking for 30 mins, we encountered an incline which was 90 degrees up with a lake at the top. Now, you might ask why not take an auto; this is the right time to take a short detour to where Chakan is. 
+              
+
+                I am sure you would know Lonavala comes in the Mumbai-Pune expressway, but a select few unlucky souls would know if you take a diversion ahead of Lonavala, you will land up in a place with no internet/coverage/buildings etc. That place is called Chakan. Now here’s the fun part, my intern thought the paper was in Chakan but actually was in Bhamboli, which, I don’t say this often, made me appreciate my hometown(contrary to what my co-interns would say, my hometown was a cross-road with a name a few years back, but at least it had water and a railway station). In Bhamboli, an auto ride of 2kms by Ola/Uber counts as intercity. 
+              
+
+                Ok, so with that answered, let’s get back to the story. We barely made it to the plant, which was conveniently placed at the farthest end, just to discover it was closed (yeah, wonder what we were expecting on a Sunday). Now I kid you not, at this point; we were on the verge of fainting, so much so that the security guard took pity on us and dropped us near our stay. 
+              
+
+                The moral of the story was to do background research on the place you stay before heading out!
+              
+
+                Ok, let’s get back to pointers before half of my article gets edited out, so the next pointer(relevant) is(are): 
+                “Describe the work allotted to you” and “The pros and cons of a WFH intern.”
+                I decided to take these points together because, for me, they were related. My work was on CFD and developing a quick and dirty tool to apply for preliminary analysis. Now I won’t go into the nitty-gritty of it (as anyway I am not allowed to), but on the scale of effort and difficulty, I got a fairly doable but still engaging enough PS. The good thing about working in a company like atomberg is the freedom they offer; this PS was finalised after many iterations. In fact, my first PS was data science, and I had a tough time convincing them that the projects written in my resume are core aero, not DS (one more resume tip: don’t make it so technical that people start misinterpreting it). The place's atmosphere was different from regular jobs where you sit in a cubicle in an AC cabin. We could see people working in the assembly line from our windows.
+              
+
+                That sort of covers my work; the reason I took up the WFH(Work From Home) part with this is my mentor once discussed the option with me since the net was a big nuisance in the plant, and my work being slightly software-based, made much more sense for me to do from the comfort of PG. So I took my mentor’s advice and tried working from home for a day; it was horrible. I would say work from home only works when the “home” is not replaced with PG, especially one not having any water. To put a long story short, the environment with your colleagues sitting around you discussing stuff, the tea breaks where people sit with empty cups to pass the time, the bus parties thrown by latecomers, etc., are as essential for your work as spreadsheets and simulation programs.
+              
+
+                I guess I have already made it too long, but if a patient reader has made it this far, he/she should benefit from the next pointer (or you could just skip to this part, works either way)
+                “Tips to juniors about how to get a good intern and how to make the most of that opportunity.”
+              
+
+                Well, as said earlier, I didn’t do much of an intern prep, but luckily it played out perfectly for me; I enjoyed my role, worked under highly knowledgeable and helpful people and made good friends(for my co-interns: I obviously meant the ID team). But leaving it to luck is not the best thing to do. I always feel going into the field where you could imagine yourself enjoying your work is a must. More often than not, your work will not depend on the clock or day of the week, and if you are the person waiting for the day to end, you might not enjoy your internship or grow much from it.
+              
+
+                Taking advice from seniors on the firm’s work, culture and freedom is always helpful before deciding on an intern and, most importantly, interact with your colleagues as much as you can as they have much more experience than you and might give you some new perspectives.
+              
+
+            The one stop solution for news at IIT Bombay.
+          
+Microsites
+Legal Stuff
+
+        Copyright © 2022 InSight, IIT Bombay
